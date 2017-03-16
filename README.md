@@ -1,2 +1,2 @@
 # Educational-Robotics
-Project foe the robotics Lab.
+Project for the robotics Lab.
